@@ -1,0 +1,14 @@
+/Users/juno/Documents/csharp-apps/DelegateBasics/bin/Debug/net9.0/csharp-apps
+/Users/juno/Documents/csharp-apps/DelegateBasics/bin/Debug/net9.0/csharp-apps.deps.json
+/Users/juno/Documents/csharp-apps/DelegateBasics/bin/Debug/net9.0/csharp-apps.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/DelegateBasics/bin/Debug/net9.0/csharp-apps.dll
+/Users/juno/Documents/csharp-apps/DelegateBasics/bin/Debug/net9.0/csharp-apps.pdb
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.dll
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/refint/csharp-apps.dll
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.pdb
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/ref/csharp-apps.dll
