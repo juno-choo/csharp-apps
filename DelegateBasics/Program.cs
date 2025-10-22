@@ -10,19 +10,35 @@ namespace DelegateBasicExample
 
         static void Main(string[] args)
         {
-            LogDel logDelegate = new LogDel(LogTextToFile);
+            // Using instance method
+            Log log = new Log();
+
+            LogDel LogTextToScreenDel, LogTextToFileDel;
+            LogTextToScreenDel = new LogDel(log.LogTextToScreen);
+            LogTextToFileDel = new LogDel(log.LogTextToFile);
+
+            LogDel multiLogDel = LogTextToScreenDel + LogTextToFileDel;
 
             System.Console.WriteLine("Please write your name: ");
             var name = Console.ReadLine();
-            logDelegate(name);
+            LogText(LogTextToFileDel, name);
         }
 
-        static void LogTextToScreen(string message)
+        static void LogText(LogDel logDel, string message)
+        {
+            logDel(message);
+        }
+
+    }
+
+    public class Log
+    {
+        public void LogTextToScreen(string message)
         {
             Console.WriteLine($"Date: {DateTime.Now}, Message: {message}");
         }
-        
-        static void LogTextToFile(string message)
+
+        public void LogTextToFile(string message)
         {
             using (StreamWriter writer = new StreamWriter(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "log.txt"), true))
             {
@@ -30,4 +46,6 @@ namespace DelegateBasicExample
             }
         }
     }
+    
+
 }

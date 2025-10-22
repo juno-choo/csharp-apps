@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/bin/Debug/net9.0/ThresholdEventReachedApp
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/bin/Debug/net9.0/ThresholdEventReachedApp.deps.json
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/bin/Debug/net9.0/ThresholdEventReachedApp.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/bin/Debug/net9.0/ThresholdEventReachedApp.dll
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/bin/Debug/net9.0/ThresholdEventReachedApp.pdb
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ThresholdEventReachedApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ThresholdEventReachedApp.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ThresholdEventReachedApp.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ThresholdEventReachedApp.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ThresholdEventReachedApp.sourcelink.json
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ThresholdEventReachedApp.dll
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/refint/ThresholdEventReachedApp.dll
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ThresholdEventReachedApp.pdb
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ThresholdEventReachedApp.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/ThresholdEventReachedApp/obj/Debug/net9.0/ref/ThresholdEventReachedApp.dll

@@ -12,3 +12,4 @@
 /Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.pdb
 /Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.genruntimeconfig.cache
 /Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/ref/csharp-apps.dll
+/Users/juno/Documents/csharp-apps/DelegateBasics/obj/Debug/net9.0/csharp-apps.sourcelink.json
