@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/bin/Debug/net9.0/ThermostatEventsApp
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/bin/Debug/net9.0/ThermostatEventsApp.deps.json
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/bin/Debug/net9.0/ThermostatEventsApp.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/bin/Debug/net9.0/ThermostatEventsApp.dll
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/bin/Debug/net9.0/ThermostatEventsApp.pdb
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ThermostatEventsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ThermostatEventsApp.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ThermostatEventsApp.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ThermostatEventsApp.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ThermostatEventsApp.sourcelink.json
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ThermostatEventsApp.dll
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/refint/ThermostatEventsApp.dll
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ThermostatEventsApp.pdb
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ThermostatEventsApp.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/ThermostatEventsApp/obj/Debug/net9.0/ref/ThermostatEventsApp.dll
