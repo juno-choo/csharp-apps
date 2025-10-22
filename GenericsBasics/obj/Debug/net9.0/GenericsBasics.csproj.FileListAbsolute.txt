@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/GenericsBasics/bin/Debug/net9.0/GenericsBasics
+/Users/juno/Documents/csharp-apps/GenericsBasics/bin/Debug/net9.0/GenericsBasics.deps.json
+/Users/juno/Documents/csharp-apps/GenericsBasics/bin/Debug/net9.0/GenericsBasics.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/GenericsBasics/bin/Debug/net9.0/GenericsBasics.dll
+/Users/juno/Documents/csharp-apps/GenericsBasics/bin/Debug/net9.0/GenericsBasics.pdb
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/GenericsBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/GenericsBasics.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/GenericsBasics.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/GenericsBasics.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/GenericsBasics.sourcelink.json
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/GenericsBasics.dll
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/refint/GenericsBasics.dll
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/GenericsBasics.pdb
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/GenericsBasics.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/GenericsBasics/obj/Debug/net9.0/ref/GenericsBasics.dll
