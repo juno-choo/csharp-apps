@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/GenericBubbleSortApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/GenericBubbleSortApp.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/GenericBubbleSortApp.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/GenericBubbleSortApp.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/GenericBubbleSortApp.sourcelink.json
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/bin/Debug/net9.0/GenericBubbleSortApp
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/bin/Debug/net9.0/GenericBubbleSortApp.deps.json
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/bin/Debug/net9.0/GenericBubbleSortApp.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/bin/Debug/net9.0/GenericBubbleSortApp.dll
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/bin/Debug/net9.0/GenericBubbleSortApp.pdb
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/GenericBubbleSortApp.dll
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/refint/GenericBubbleSortApp.dll
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/GenericBubbleSortApp.pdb
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/GenericBubbleSortApp.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/GenericBubbleSortApp/obj/Debug/net9.0/ref/GenericBubbleSortApp.dll
