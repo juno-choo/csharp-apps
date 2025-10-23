@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-apps", "DelegateBasics\csharp-apps.csproj", "{9791BAD5-FB51-0523-013C-9B1464442EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBubbleSortApp", "GenericBubbleSortApp\GenericBubbleSortApp.csproj", "{435D7552-BB94-E02E-0416-A2AACBDDCD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThresholdEventReachedApp", "ThresholdEventReachedApp\ThresholdEventReachedApp.csproj", "{C9DBB781-479E-D775-C0EF-B1F1F23075D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsBasics", "GenericsBasics\GenericsBasics.csproj", "{3AC3CA8F-6932-0849-2137-BFA9F41BBFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermostatEventsApp", "ThermostatEventsApp\ThermostatEventsApp.csproj", "{308B2707-53FE-486B-CA22-8EE1D678A785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9791BAD5-FB51-0523-013C-9B1464442EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9791BAD5-FB51-0523-013C-9B1464442EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9791BAD5-FB51-0523-013C-9B1464442EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9791BAD5-FB51-0523-013C-9B1464442EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435D7552-BB94-E02E-0416-A2AACBDDCD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435D7552-BB94-E02E-0416-A2AACBDDCD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435D7552-BB94-E02E-0416-A2AACBDDCD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435D7552-BB94-E02E-0416-A2AACBDDCD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DBB781-479E-D775-C0EF-B1F1F23075D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DBB781-479E-D775-C0EF-B1F1F23075D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DBB781-479E-D775-C0EF-B1F1F23075D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DBB781-479E-D775-C0EF-B1F1F23075D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC3CA8F-6932-0849-2137-BFA9F41BBFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC3CA8F-6932-0849-2137-BFA9F41BBFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC3CA8F-6932-0849-2137-BFA9F41BBFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC3CA8F-6932-0849-2137-BFA9F41BBFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308B2707-53FE-486B-CA22-8EE1D678A785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308B2707-53FE-486B-CA22-8EE1D678A785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308B2707-53FE-486B-CA22-8EE1D678A785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308B2707-53FE-486B-CA22-8EE1D678A785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1F8D447-8111-4C7F-AAAE-A13671BF3D6F}
+	EndGlobalSection
+EndGlobal
