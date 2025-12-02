@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/TeaMaker/bin/Debug/net9.0/TeaMaker
+/Users/juno/Documents/csharp-apps/TeaMaker/bin/Debug/net9.0/TeaMaker.deps.json
+/Users/juno/Documents/csharp-apps/TeaMaker/bin/Debug/net9.0/TeaMaker.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/TeaMaker/bin/Debug/net9.0/TeaMaker.dll
+/Users/juno/Documents/csharp-apps/TeaMaker/bin/Debug/net9.0/TeaMaker.pdb
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/TeaMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/TeaMaker.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/TeaMaker.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/TeaMaker.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/TeaMaker.sourcelink.json
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/TeaMaker.dll
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/refint/TeaMaker.dll
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/TeaMaker.pdb
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/TeaMaker.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/TeaMaker/obj/Debug/net9.0/ref/TeaMaker.dll

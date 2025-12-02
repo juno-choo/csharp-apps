@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/bin/Debug/net9.0/WhatThreadAreWeOn
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/bin/Debug/net9.0/WhatThreadAreWeOn.deps.json
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/bin/Debug/net9.0/WhatThreadAreWeOn.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/bin/Debug/net9.0/WhatThreadAreWeOn.dll
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/bin/Debug/net9.0/WhatThreadAreWeOn.pdb
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/WhatThreadAreWeOn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/WhatThreadAreWeOn.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/WhatThreadAreWeOn.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/WhatThreadAreWeOn.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/WhatThreadAreWeOn.sourcelink.json
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/WhatThreadAreWeOn.dll
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/refint/WhatThreadAreWeOn.dll
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/WhatThreadAreWeOn.pdb
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/WhatThreadAreWeOn.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/WhatThreadAreWeOn/obj/Debug/net9.0/ref/WhatThreadAreWeOn.dll

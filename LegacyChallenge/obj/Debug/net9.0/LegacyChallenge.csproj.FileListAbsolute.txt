@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/LegacyChallenge/bin/Debug/net9.0/LegacyChallenge
+/Users/juno/Documents/csharp-apps/LegacyChallenge/bin/Debug/net9.0/LegacyChallenge.deps.json
+/Users/juno/Documents/csharp-apps/LegacyChallenge/bin/Debug/net9.0/LegacyChallenge.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/LegacyChallenge/bin/Debug/net9.0/LegacyChallenge.dll
+/Users/juno/Documents/csharp-apps/LegacyChallenge/bin/Debug/net9.0/LegacyChallenge.pdb
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/LegacyChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/LegacyChallenge.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/LegacyChallenge.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/LegacyChallenge.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/LegacyChallenge.sourcelink.json
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/LegacyChallenge.dll
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/refint/LegacyChallenge.dll
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/LegacyChallenge.pdb
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/LegacyChallenge.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/LegacyChallenge/obj/Debug/net9.0/ref/LegacyChallenge.dll

@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/bin/Debug/net9.0/PaymentProcessorChallenge
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/bin/Debug/net9.0/PaymentProcessorChallenge.deps.json
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/bin/Debug/net9.0/PaymentProcessorChallenge.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/bin/Debug/net9.0/PaymentProcessorChallenge.dll
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/bin/Debug/net9.0/PaymentProcessorChallenge.pdb
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/PaymentProcessorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/PaymentProcessorChallenge.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/PaymentProcessorChallenge.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/PaymentProcessorChallenge.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/PaymentProcessorChallenge.sourcelink.json
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/PaymentProcessorChallenge.dll
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/refint/PaymentProcessorChallenge.dll
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/PaymentProcessorChallenge.pdb
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/PaymentProcessorChallenge.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/PaymentProcessorChallenge/obj/Debug/net9.0/ref/PaymentProcessorChallenge.dll
