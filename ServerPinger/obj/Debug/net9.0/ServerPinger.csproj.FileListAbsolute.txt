@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ServerPinger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ServerPinger.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ServerPinger.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ServerPinger.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ServerPinger.sourcelink.json
+/Users/juno/Documents/csharp-apps/ServerPinger/bin/Debug/net9.0/ServerPinger
+/Users/juno/Documents/csharp-apps/ServerPinger/bin/Debug/net9.0/ServerPinger.deps.json
+/Users/juno/Documents/csharp-apps/ServerPinger/bin/Debug/net9.0/ServerPinger.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/ServerPinger/bin/Debug/net9.0/ServerPinger.dll
+/Users/juno/Documents/csharp-apps/ServerPinger/bin/Debug/net9.0/ServerPinger.pdb
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ServerPinger.dll
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/refint/ServerPinger.dll
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ServerPinger.pdb
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ServerPinger.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/ServerPinger/obj/Debug/net9.0/ref/ServerPinger.dll

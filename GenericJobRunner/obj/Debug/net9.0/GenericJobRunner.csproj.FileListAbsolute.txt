@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/GenericJobRunner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/GenericJobRunner.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/GenericJobRunner.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/GenericJobRunner.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/GenericJobRunner.sourcelink.json
+/Users/juno/Documents/csharp-apps/GenericJobRunner/bin/Debug/net9.0/GenericJobRunner
+/Users/juno/Documents/csharp-apps/GenericJobRunner/bin/Debug/net9.0/GenericJobRunner.deps.json
+/Users/juno/Documents/csharp-apps/GenericJobRunner/bin/Debug/net9.0/GenericJobRunner.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/GenericJobRunner/bin/Debug/net9.0/GenericJobRunner.dll
+/Users/juno/Documents/csharp-apps/GenericJobRunner/bin/Debug/net9.0/GenericJobRunner.pdb
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/GenericJobRunner.dll
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/refint/GenericJobRunner.dll
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/GenericJobRunner.pdb
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/GenericJobRunner.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/GenericJobRunner/obj/Debug/net9.0/ref/GenericJobRunner.dll
