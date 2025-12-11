@@ -1,0 +1,15 @@
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/DynamicQuestManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/DynamicQuestManager.AssemblyInfoInputs.cache
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/DynamicQuestManager.AssemblyInfo.cs
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/DynamicQuestManager.csproj.CoreCompileInputs.cache
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/DynamicQuestManager.sourcelink.json
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/bin/Debug/net9.0/DynamicQuestManager
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/bin/Debug/net9.0/DynamicQuestManager.deps.json
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/bin/Debug/net9.0/DynamicQuestManager.runtimeconfig.json
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/bin/Debug/net9.0/DynamicQuestManager.dll
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/bin/Debug/net9.0/DynamicQuestManager.pdb
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/DynamicQuestManager.dll
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/refint/DynamicQuestManager.dll
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/DynamicQuestManager.pdb
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/DynamicQuestManager.genruntimeconfig.cache
+/Users/juno/Documents/csharp-apps/DynamicQuestManager/obj/Debug/net9.0/ref/DynamicQuestManager.dll
